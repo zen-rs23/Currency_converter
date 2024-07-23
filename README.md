@@ -1,6 +1,4 @@
 # FX Converter
-### Student Name: Kurmati Rohit Sharma
-### Student ID: 24590960
 
 ## Project Description:
 The FX Converter web app enables users to obtain the latest and historical currency conversion rates. By utilizing data from the Frankfurt API, users can easily select two different currencies and receive up-to-date exchange rates, as well as the ability to select a historical date to view past rates. The application offers a user-friendly interface built with Streamlit.
